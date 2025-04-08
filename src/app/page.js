@@ -5,7 +5,6 @@ const firebaseConfig = {
     databaseURL: "https://hackaccino24-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "hackaccino24",
     storageBucket: "hackaccino24.appspot.com",
-    apiKey: "AIzaSyB_0KMxFTCsqY05NaQGqvPfB460tIAIsiE",
     appId: "1:708074645866:web:ddbafe33a21f9f45445d13"
 };
 
